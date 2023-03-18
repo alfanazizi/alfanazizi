@@ -1,9 +1,9 @@
 # 🚩 Alfan Azizi
 **'Digital Wizards (Creator)'**
 
-👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation. "[AlfanZizi][Instagram]"
+👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation.  "[Alfanzizi][instagram]"
 
-#   <p align="left">
+###   <p align="left">
 #      <a href="https://www.youtube.com/c/alfanazizi?sub_confirmation=1">
 #         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 #      <a href="https://www.youtube.com/c/alfanazizi">
@@ -42,4 +42,3 @@
 
 [website]: https://alfanazizi.github.io
 [youtube]: https://youtube.com/alfanazizi
-
