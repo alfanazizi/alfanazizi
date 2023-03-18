@@ -1,7 +1,8 @@
 # 🚩 Alfan Azizi
-**'Digital Wizards (Creator)'**
 
-👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation. "[alfanazizi][youtube]"
+**'Digital Wizards (Digital Creator)'**
+
+👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation. "[UCIJJAFCkUNVMNqLD1KMVIxg][youtube]"
 
 ---
 
@@ -17,16 +18,20 @@
 
 #
 
+---
+
 ### 📊 Stats
 ### ![Alfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfanazizi&show_icons=true&theme=gruvbox)
 
 ### <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Alfanazizi&theme=gruvbox&border_radius=4.5) -->
 
+---
+
 #
 
 <details>
  <summary><h3>👨‍💻 Azizi's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, And all the while, teaching myself. However, I had another desire I had been pursuing throughout this time - YouTube content creation. But there's something that's always bothered me about my journey -  I do have to eat, at the end of the day, but I think it's time. It's time to expand mycomfort-zone again. I have a burning desire to get back on the horse, and fulfill my dream younger me had of building my own digital assets, my own digital assets. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content and blog-websites. Don't wait up, because I'm coming.
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, And all the while, teaching myself. However, I had another desire I had been pursuing throughout this time - YouTube content creation. But there's something that's always bothered me about my journey -  I do have to eat, at the end of the day, but I think it's time. It's time to expand mycomfort-zone again. I have a burning desire to get back on the horse, and fulfill my dream younger me had of building my own digital assets, my own digital assets. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content and creating my own blog-websites. Don't wait up, because I'm coming.
 
 [website]: https://alfanazizi.github.io
 [youtube]: https://youtube.com/alfanazizi
