@@ -1,17 +1,17 @@
 # 🚩 Alfan Azizi
 **'Digital Wizards (Creator)'**
 
-👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation. "[Alfanazizi][youtube]"
+👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation. "[UCIJJAFCkUNVMNqLD1KMVIxg][youtube]"
 
 ###   <p align="left">
-#      <a href="https://www.youtube.com/c/alfanazizi?sub_confirmation=1">
-#         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-#      <a href="https://www.youtube.com/c/alfanazizi">
-#         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-#      <a href="https://github.com/alfanazizi?tab=followers">
-#         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-#      <a href="https://github.com/alfanazizi?tab=repositories&sort=stargazers">
-#         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> 
+###      <a href="https://www.youtube.com/c/alfanazizi sub_confirmation=1">
+###         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+###      <a href="https://www.youtube.com/c/alfanazizi">
+###        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+###    <a href="https://github.com/alfanazizi?tab=followers">
+###       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+###      <a href="https://github.com/alfanazizi?tab=repositories&sort=stargazers">
+###         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> 
     </p>
 
 ### 🧰 Languages and Tools
@@ -26,7 +26,7 @@
 
 #
 
-### 📺 Latest YouTube Videos
+#📺 Latest YouTube Videos
 
 
 ### 📊 Stats
