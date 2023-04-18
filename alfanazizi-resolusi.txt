@@ -2,3 +2,4 @@ Azizi Resolusi 2023
 - Konsisten bikin halaman website junkies dengan SEO dan Tampilan sederhana
 - Membuat konten blog untuk website yang terkait
 - FE Developer 2023
+- Membuat portofolio photography landingpage
