@@ -2,17 +2,17 @@
 
 **'Digital Wizards (Digital Creator)'**
 
-👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation. "[UCIJJAFCkUNVMNqLD1KMVIxg][youtube]"
+👋 Hi, I’m an indie photographer and content creator building my own version of digital assets on world-one-internet at a time. All coding project are built from the ground up, from planning and designing all the way to my own perspective solving problems. All digital content is built the same way, from ideation and planning, all the way to finalizing the content with artistic creation. 
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br />
 
